@@ -1,4 +1,4 @@
-# `/.dotfiles` Config
+# `/.dotfiles` - Config
 
 <div align="justify">
 
